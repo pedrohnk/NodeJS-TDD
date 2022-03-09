@@ -1,0 +1,23 @@
+[
+    {
+        "id": "bc7fc973502cd4451e6adeeb3593f5d668a15744",
+        "name": "Siena",
+        "releaseYear": "2019",
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "011e0d59e63ef4fddc4f95710ce6b7861f65412e",
+        "name": "Skyline",
+        "releaseYear": "2017",
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "c54cc105a54679098c2001d2b2ba9c094eba5fae",
+        "name": "Velar",
+        "releaseYear": "2014",
+        "available": true,
+        "gasAvailable": true
+    }
+]

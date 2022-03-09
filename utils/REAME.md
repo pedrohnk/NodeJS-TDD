@@ -1,0 +1,1 @@
+## Generate Category and Car Names without faker library ( Faker library is not available at 03/03/2022 ).
